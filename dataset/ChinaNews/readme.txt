@@ -1,0 +1,10 @@
+ChinaNews_origin: 原始数据
+X_data: 词向量矩阵（前1913篇为来源领域，后1571篇为目标领域）
+Y_data: 标签矩阵（前1913篇为来源领域，后1571篇为目标领域）
+jiaoyu_vec: 教育领域的词向量矩阵
+jiaoyu_label: 教育领域的标签矩阵
+jinrong_vec: 金融领域的词向量矩阵
+jinrong_label: 金融领域的标签矩阵
+tiyu_vec: 体育领域的词向量矩阵
+tiyu_label: 体育领域的标签矩阵
+vocabDic: 词表
